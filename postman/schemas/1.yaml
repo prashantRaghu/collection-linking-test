@@ -1,7 +1,7 @@
 openapi: 3.0.0
 info:
   version: '1'
-  title: 'API <> Colection linking tests'
+  title: 'API <> Colection linking tests11'
   license:
     name: MIT
 servers:
